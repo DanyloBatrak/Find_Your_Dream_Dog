@@ -1,0 +1,151 @@
+.header {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(179, 105, 14);
+  color: white;
+  padding: 10px;
+}
+
+.discription-details {
+  background-color: rgb(0, 0, 0);
+}
+
+.api-box {
+  display: flex;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.discover_button {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  width: 200px;
+  height: 50px;
+  font-size: large;
+}
+
+.discover_button:hover {
+  color: red;
+  background-color: white;
+}
+
+button {
+  display: inline-flex;
+}
+
+.traits button {
+  border-radius: 20px;
+  color: aquamarine;
+  background-color: black;
+  justify-content: center;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.traits {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.traits-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 20px;
+  width: 150px;
+  height: 60px;
+  cursor: pointer;
+}
+
+.traits-button:hover {
+  background-color: azure;
+  color: red;
+}
+
+.layout {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  width: 100%;
+}
+
+.ban-window {
+  background-color: azure;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 50%;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.ban-window h2 {
+  text-align: center;
+}
+
+.ban-window p {
+  text-align: center;
+}
+
+.history {
+  background-color: azure;
+  height: 100%;
+  width: 50%;
+  margin-top: 20px;
+  min-width: 250px;
+}
+
+.history h2 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.history p {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+img {
+  display: flex;
+  width: 80%;
+  height: 300px;
+}
+
+.history_img {
+  width: 200px;
+  height: 100px;
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  margin: 0 auto;
+}
+
+#history-text {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
