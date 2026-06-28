@@ -58,6 +58,8 @@ GIF created with ScreenToGif
 
 Describe any challenges encountered while building the app.
 
+While I creating this project I had problems with using API and using the key access for this, however most of problem caused is getting the id and other attributes from the API as it from the beggining I cannot get these attributes until I found the correct link to such information. 
+
 ## License
 
     Copyright [2026] [Danylo Batrak]
